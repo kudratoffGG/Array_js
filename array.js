@@ -22,3 +22,29 @@ for(i=1; i<=n; i++) {
   arr.push(k);
 }
 console.log(arr);
+
+
+
+//        
+// let massiv = [`Hello World!`];
+// let n = Array.from(`Abdulloh`);
+// console.log(n);
+
+
+
+//          array-7
+// let n = Number(prompt(`n ni kiriting :`));
+// let k = [];
+
+// for(i=0; i<=n; i++) {
+//   k.unshift(i);
+// }
+// console.log(k);
+
+
+
+// let a = [1,2,3,4];
+// let b = [];
+// b.unshift(a);
+
+// console.log(b);
