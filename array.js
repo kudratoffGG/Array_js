@@ -41,10 +41,3 @@ console.log(arr);
 // }
 // console.log(k);
 
-
-
-// let a = [1,2,3,4];
-// let b = [];
-// b.unshift(a);
-
-// console.log(b);
